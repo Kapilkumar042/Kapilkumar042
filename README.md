@@ -1,6 +1,9 @@
 ## Hi 👋, I'm Kapil Kumar
 
 A Passionate Software Engineer - JavaScript | TypeScript
+
+Tech Stack
+html5 css3 javascript typescript
 <!--
 **Kapilkumar042/Kapilkumar042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
